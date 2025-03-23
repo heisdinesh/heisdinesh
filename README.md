@@ -26,6 +26,6 @@ JavaScript • Python • TypeScript • React • Lit • NextJS • Node.js �
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heisdinesh) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/heisdinesh) 
-[![Website](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)]([https://your-website.com](https://portfoliov2-delta-ashen.vercel.app/))  
+[![Website](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://portfoliov2-delta-ashen.vercel.app/)
 
 From open-source contributions to exciting collaborations and new opportunities, I'm always looking to build something that matters. Let’s connect and create something impactful!
