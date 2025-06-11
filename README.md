@@ -7,8 +7,10 @@ I build software, design experiences, and bring ideas to life. In short, I creat
 
 
 ## 💼 Work Experience
+- Project Manager at Simple Energy
 - SDE 1 at Simple Energy  
-- SDE Intern at Vyapar Dost  
+- SDE Intern at Vyapar Dost
+- Graphic Designer at Seed Paper India
 
 
 ## 🚀 Skills
