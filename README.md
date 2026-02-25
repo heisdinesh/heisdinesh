@@ -1,33 +1,32 @@
 # 👋 Hello! I'm Dinesh
 
-## Full Stack Developer | UI/UX Designer
+## Software Engineer
 
-I build software, design experiences, and bring ideas to life. In short, I create, shape, and share. Currently, I’m developing tools at Simple Energy, driving the business forward with technology. The world of genomics has captured my curiosity, and I’m eager to explore the intersection of code and biology to make meaningful contributions.  
+Focused on AI systems, scalable backend architecture, and product development.
 
 
+## 🌟 Achievements
+
+- Google Summer of Code 2025 Contributor [Wellcome Sanger – Tree of Life](https://github.com/genomehubs/kinfin/pulls?q=is%3Apr+author%3Aheisdinesh)
+- Smart India Hackathon'2023 & 2022 Winner
+- Google Agentic AI Hackathon Runner 
+- Nexla Express LaunchPad Hackathon Participant
+ 
 
 ## 💼 Work Experience
+- Founder at Trackleaf
 - Project Manager at Simple Energy
 - SDE 1 at Simple Energy  
-- SDE Intern at Vyapar Dost
-- Graphic Designer at Seed Paper India
 
 
 ## 🚀 Skills
 JavaScript • Python • TypeScript • React • Lit • NextJS • Node.js • GraphQL • MySQL • PostgreSQL • MongoDB • Docker • Adobe Illustrator • Figma  
 
 
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heisdinesh&show_icons=true&theme=dracula" width="400" ></td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heisdinesh&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="167" alt="languages graph"  />
-</div>
-
 ###### It ain't much, but it's honest work.
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heisdinesh) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/heisdinesh) 
-[![Website](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://portfoliov2-delta-ashen.vercel.app/)
 
 From open-source contributions to exciting collaborations and new opportunities, I'm always looking to build something that matters. Let’s connect and create something impactful!
