@@ -9,8 +9,9 @@ Focused on AI systems, scalable backend architecture, and product development.
 
 - Google Summer of Code 2025 Contributor [Wellcome Sanger – Tree of Life](https://github.com/genomehubs/kinfin/pulls?q=is%3Apr+author%3Aheisdinesh)
 - Smart India Hackathon'2023 & 2022 Winner
+- Softway hackathon Winner
 - Google Agentic AI Hackathon Runner 
-- Nexla Express LaunchPad Hackathon Participant
+- Nexla Express LaunchPad Hackathon Runner
  
 
 ## 💼 Work Experience
